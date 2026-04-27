@@ -5,24 +5,20 @@
 📍 Kolkata, India
 
 ## Skills
-- HTML
-- CSS
-- JavaScript
-- Java
-- MySQL
+- ![HTML](https://img.shields.io/badge/HTML-orange)
+- ![CSS](https://img.shields.io/badge/CSS-blue)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+- ![Java](https://img.shields.io/badge/Java-red)
+- ![MySQL](https://img.shields.io/badge/MySQL-lightblue)
 - Python (Learning)
 - Git & GitHub
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Java](https://img.shields.io/badge/Java-red)
-![MySQL](https://img.shields.io/badge/MySQL-lightblue)
 
 ## Projects
+🔹 Smart Resource Management System
 🔹 Titan Fitness Web App  
+🔹 AI Placement Prediction
 🔹 AI Resume Analyzer  
 🔹 AI Mock Interview System  
-🔹 Smart Resource Management System
 
 ## Currently Learning
 - Data Science
