@@ -12,6 +12,11 @@
 - MySQL
 - Python (Learning)
 - Git & GitHub
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Java](https://img.shields.io/badge/Java-red)
+![MySQL](https://img.shields.io/badge/MySQL-lightblue)
 
 ## Projects
 🔹 Titan Fitness Web App  
@@ -27,3 +32,7 @@
 ## Connect With Me
 LinkedIn: https://www.linkedin.com/in/sanskar-shaw-0845b62a0/
 Email: shawsanskar0311@gmail.com
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FriendlyAligator&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FriendlyAligator&layout=compact)
