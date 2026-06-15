@@ -35,7 +35,7 @@ LinkedIn: https://www.linkedin.com/in/sanskar-shaw-0845b62a0/
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FriendlyAligator&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskar-shaw&show_icons=true)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FriendlyAligator&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar-shaw&layout=compact)
