@@ -21,7 +21,7 @@
 🔹 AI Placement Prediction
 🔹 AI Resume Analyzer  
 🔹 AI Mock Interview System 
-🔹 Employee Management System
+
 
 ## Currently Learning
 - Data Science
